@@ -1,0 +1,9 @@
+matplotlib==3.3.4
+numpy==1.21.0
+pandas==1.2.4
+pytorch_msssim==0.2.1
+scikit_learn==1.0.2
+torch==1.9.0+cu111
+torchvision==0.10.0+cu111
+umap_learn==0.5.3
+wandb==0.15.4
